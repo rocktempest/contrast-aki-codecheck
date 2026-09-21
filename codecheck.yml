@@ -1,0 +1,17 @@
+%YAML 1.1
+---
+version: https://codecheck.org.uk/spec/config/1.0/
+
+manifest:
+  - file: outputs/overlap_weighting_results.csv
+    comment: Overlap-weighted logistic regression with robust/sandwich uncertainty
+  - file: outputs/covariate_balance.csv
+    comment: Standardized mean differences before and after overlap weighting
+  - file: outputs/analysis_summary.txt
+    comment: Human-readable summary
+
+paper:
+  title: "Acil Servis Hastalarında İntravenöz İyotlu Kontrast Maruziyeti ile Kısa Dönem Akut Böbrek Hasarı Arasındaki İlişki: Retrospektif Kohort Çalışması"
+  authors:
+    - name: Bora Kaya
+  reference: "Manuscript in preparation"

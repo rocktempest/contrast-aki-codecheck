@@ -1,0 +1,1 @@
+A CODECHECK is being requested for the computational workflow underlying the propensity-score overlap-weighting sensitivity analysis. The check is intended to confirm independent executability and reproduction of the reported computational outputs; it is not presented as an independent assessment of the scientific validity of the study design or statistical method.

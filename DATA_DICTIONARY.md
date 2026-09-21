@@ -1,0 +1,13 @@
+# Data dictionary
+- study_id: sequential bundle-only identifier
+- exposure: 1 contrast-enhanced CT; 0 noncontrast CT
+- age: years
+- female: 1 female; 0 male
+- complaint1: primary ED presentation code
+- ct1/ct2/ct3: CT region codes
+- baseline_cr: baseline creatinine, mg/dL
+- cr_48_72: 48–72 h creatinine used for primary outcome, mg/dL
+- hco3: venous blood gas bicarbonate
+- urea: baseline urea
+- egfr: baseline eGFR reported by hospital LIS (CKD-EPI)
+- aki: primary 48–72 h creatinine-based AKI, 1/0
