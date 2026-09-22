@@ -1,7 +1,6 @@
 N = 368
 Contrast-enhanced CT = 244
 Noncontrast CT = 124
-AKI events: contrast = 20; noncontrast = 21
 OR = 0.597756
 Robust/sandwich SE(log OR) = 0.364816
 95% CI = 0.292406 to 1.221974
